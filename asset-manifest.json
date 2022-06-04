@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b8a36f2.css",
-    "main.js": "/static/js/main.3043ec4a.js",
-    "static/media/profile_pic.jpg": "/static/media/profile_pic.b38c83a0632d654530be.jpg",
-    "index.html": "/index.html",
-    "main.4b8a36f2.css.map": "/static/css/main.4b8a36f2.css.map",
-    "main.3043ec4a.js.map": "/static/js/main.3043ec4a.js.map"
+    "main.css": "/digital-business-card-Ritam-Pradhan/static/css/main.4b8a36f2.css",
+    "main.js": "/digital-business-card-Ritam-Pradhan/static/js/main.ac5ce89f.js",
+    "static/media/profile_pic.jpg": "/digital-business-card-Ritam-Pradhan/static/media/profile_pic.b38c83a0632d654530be.jpg",
+    "index.html": "/digital-business-card-Ritam-Pradhan/index.html",
+    "main.4b8a36f2.css.map": "/digital-business-card-Ritam-Pradhan/static/css/main.4b8a36f2.css.map",
+    "main.ac5ce89f.js.map": "/digital-business-card-Ritam-Pradhan/static/js/main.ac5ce89f.js.map"
   },
   "entrypoints": [
     "static/css/main.4b8a36f2.css",
-    "static/js/main.3043ec4a.js"
+    "static/js/main.ac5ce89f.js"
   ]
 }
