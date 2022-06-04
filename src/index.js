@@ -1,10 +1,10 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import Card from "./Card"
+import Frame from "./Frame"
 
 ReactDOM.render(
   <div>
-    <Card />
+    <Frame />
   </div>, 
   document.getElementById("root")
 );

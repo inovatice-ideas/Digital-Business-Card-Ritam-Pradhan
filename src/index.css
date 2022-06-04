@@ -1,0 +1,119 @@
+.frame-template {
+    width: 550px;
+    height: 868px;
+    background-color: #23252C;
+}
+
+.card-template {
+    position: absolute;
+    margin-top: 44px;
+    margin-left: 116px;
+    width: 317px;
+    height: 780px;
+}
+
+.bio-data {
+    height: 399px;
+    background-color: #1A1B21;
+}
+
+.profile-pic-frame {
+    margin-bottom: -30px;
+}
+
+.profile-pic {
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0 0;
+}
+
+.profile {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.info {
+    padding-top: 20px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.info-designation {
+    padding-top: -30px;
+    color: #F3BF99;
+    font-weight: normal;
+    font-size: 12.5px;
+}
+
+.info-mobile {
+    font-weight: normal;
+    font-size: 10.24px;
+    color: #F5F5F5;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.email-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px 6px 6px 6px;
+    background-color: #FFFFFF;
+    stroke: #D1D5DB;
+    padding: 9px 13px 9px 11px;
+    width: 247px;
+    height: 34px;
+    margin: auto;
+}
+
+.email-icon-pic {
+    width: 16px;
+    height: 16px;
+    padding-right: 4px;
+}
+
+.button-text {
+    font-weight: medium;
+    font-size: 14px;
+    padding-left: 4px;
+}
+
+.about-frame {
+    width: 272.71px;
+    margin-left: 22px;
+    font-family: 'Inter', sans-serif;
+}
+
+.about-title {
+    font-weight: bold;
+    font-size: 16px;
+    color: #f5f5f5;
+    margin-bottom: -7px;
+    margin-top: 35px;
+}
+
+.about-body {
+    font-weight: normal;
+    font-size: 10.24px;
+    color: #dcdcdc;
+}
+
+.footer-frame {
+    background-color: #161619;
+    height: 64px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.icon {
+    position: relative;
+    padding-right: 15px;
+    padding-left: 21px;
+    padding-top: 20px;
+    width: 25px;
+    height: 25px;
+}
